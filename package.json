@@ -1,0 +1,22 @@
+{
+  "name": "electron-create-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcyenikoylu/electron-create-file.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcyenikoylu/electron-create-file/issues"
+  },
+  "homepage": "https://github.com/mcyenikoylu/electron-create-file#readme",
+  "dependencies": {
+    "electron": "^4.0.5"
+  }
+}
